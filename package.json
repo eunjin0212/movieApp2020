@@ -2,6 +2,7 @@
   "name": "movie_app_2020",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://eunjin0212.github.io/JS-MovieApp2020/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -33,6 +34,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "homepage": "https://eunjin0212.github.io/movie_app_2020/"
+  }
 }
